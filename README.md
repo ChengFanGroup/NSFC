@@ -162,6 +162,8 @@
 
 
 ---
+
+<!-- 
 ### Ongoing Projects 在研项目
 - **National Natural Science Foundation of China (NSFC)/国家自然科学基金**  
   *Project Title/项目名称*: [Title]  
@@ -180,7 +182,7 @@
 - [Project Name/项目名称] (2019-2022) ✅
 
 ---
-<!-- 
+
 ## 🏆 Honors & Awards 荣誉与奖励
 
 ### Academic Honors 学术荣誉
@@ -271,6 +273,7 @@ We are looking for motivated students interested in:
 
 **How to Apply/申请方式:**
 Please send your CV and transcripts to: [Email/邮箱地址]
--->
+
 ---
 *Last updated/最后更新: [Date/日期]*
+-->

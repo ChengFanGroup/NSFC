@@ -9,7 +9,7 @@
 - **Name 姓名:** Fan Cheng (程 凡)
 - **Title 职称:** Professor (教 授)
 - **Affiliation 单位:** Anhui University (安徽大学)
-- **Email 邮箱:** your.email@university.edu.cn
+- **Email 邮箱:** chengfan@mail.ustc.edu.cn
 
 **Research Interests/研究方向:**
 - AI face forgery and detection / AI人脸伪造与检测

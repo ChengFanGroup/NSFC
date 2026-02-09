@@ -9,7 +9,6 @@
 - **Name 姓名:** Fan Cheng (程 凡)
 - **Title 职称:** Professor (教 授)
 - **Affiliation 单位:** Anhui University (安徽大学)
-- **Position 职务:** Director of [NSFC/实验室名称]
 - **Email 邮箱:** your.email@university.edu.cn
 
 **Research Interests/研究方向:**
